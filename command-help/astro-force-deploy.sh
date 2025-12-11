@@ -1,1 +1,0 @@
-astro deploy cmgxbjus40psy01jxgjvkx5gw -f
