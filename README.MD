@@ -10,6 +10,8 @@
 
 **Aggregating, classifying, and summarizing AI news from multiple sources into personalized newsletters.**
 
+**🌐 [View Live Demo →](https://pulseai-insights-mcj3qs22vq-uc.a.run.app/)**
+
 [Features](#features) • [Architecture](#architecture) • [Getting Started](#getting-started) • [Documentation](#bigquery-schema)
 
 </div>
