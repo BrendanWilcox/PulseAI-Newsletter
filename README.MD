@@ -1,3 +1,5 @@
+<div align="center">
+
 # PulseAI - AI-Powered Newsletter Platform
 
 <div align="center">
